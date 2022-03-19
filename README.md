@@ -14,6 +14,6 @@ You must have `nodejs` (https://nodejs.org/fr/download/) installed on your machi
 
 The project was created using **Expo**.
 
-- Start the project: `npm start` 
-- Start the project in an iOS emulator: `npm ios` 
-- Start the project in an Android emulator: `npm android` 
+- Start the project: `yarn start` 
+- Start the project in an iOS emulator: `yarn ios` 
+- Start the project in an Android emulator: `yarn android` 
